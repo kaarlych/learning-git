@@ -1,1 +1,1 @@
-def main {asdasdasadasd};
+def main {"Hello World"};
