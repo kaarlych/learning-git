@@ -1,2 +1,2 @@
 def main {"Hello World"};
-def dupa sraka
+def main {"Hello World2"};
