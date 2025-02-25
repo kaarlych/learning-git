@@ -1,2 +1,5 @@
-def main {"Hello World"};
-def main {"Hello World2"};
+
+// Description: This is a simple hello world program in Go.
+def func main() {
+	print("Hello World");
+}
